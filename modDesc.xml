@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="47">
+    <author>Kindhelm</author>
+    <version>1.0.0.1</version>
+    <title>
+        <en>Export Data into .txt file</en>
+    </title>
+    <description>
+        <en><![CDATA[Export vehicle kinematics parameters in a .txt file for plotting with external tools]]></en>  
+    </description>
+    <multiplayer supported="false"/>
+    <extraSourceFiles>
+    <sourceFile filename="dataExport.lua" />
+    </extraSourceFiles>
+</modDesc>
