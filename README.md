@@ -22,8 +22,8 @@ In the game a negative NED (North - East - Down) reference system for the coordi
 | rpmFL | Front left wheel rpm |
 | rpmRR | Rear right wheel rpm|
 | rpmRL | Rear left wheel rpm |
-| ThetaX | Yaw angle |
-| ThetaY | Pitch angle |
+| ThetaX | Pitch angle |
+| ThetaY | Yaw angle |
 | ThetaZ | Roll angle |
 | alphaFR | Front right wheel angle |
 | alphaFL | Front left wheel angle |
@@ -39,5 +39,10 @@ In the game a negative NED (North - East - Down) reference system for the coordi
 
 
 ### Matlab results examples 
+
+After extracting the data from the game API it is possible to process and plot them using the matlab scripts provided. 
+Below several examples of the results of the plotting can be found. 
+
+
 
      
